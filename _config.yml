@@ -20,33 +20,17 @@ excerpt_separator: "[-----]"
 mode: product
 url: https://unifreak.github.io/
 devurl: http://localhost:4000/
-name: UniFreak
-title: UniFreak | Another yet unique freak is showing a freakshow
+name: MyTour
+title: MyTour.tk | 自由行天下
 description: "Fanghao's personal weblog, on coding or such stuff"
 
 my:
-    displayName: UniFreak
-    realName: FangHao
-    realName_cn: 方浩
-    jobTitle: "PHP Coder"
+    displayName: MyTour
+    realName: MyTour
+    realName_cn: 自由行天下
+    jobTitle: ""
     contact:
-        qq: 744910240
-        email: fanghao90s@gmail.com
-        github: http://www.github.com/UniFreak
-        qzone: http://744910240.qzone.qq.com
-        pinterest: https://www.pinterest.com/miblah/
-        tel: 15532915861
-        address:
-            country: China
-            state: Beijing
-            city: Beijing
-            distribute: ChaoYang
-            postcode: 000000
-            cell: "AnHuiLi"
-    skills:
-        frontend: ["HTML | Markdown", "CSS | SASS", "JS | jQuery", "Bootstrap"]
-        backend: ["PHP", "MySQL", "Redis", "Regex", "Laravel", "OSC"]
-        tools: ["Sublime Text", "Git | Github", "Linux", "Jekyll | Liquid"]
+        email: 2008beta@gmail.com
 
 collections:
     qqGroupGuide:
